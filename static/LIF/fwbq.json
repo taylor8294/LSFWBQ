@@ -1,0 +1,149 @@
+{
+    "svgs": [{
+        "url": "./static/LIF/images/bullet.svg"
+    },{
+        "url": "./static/LIF/images/checkmark.svg"
+    },{
+        "url":"./static/LIF/images/marker1.svg",
+        "left": "-2%",
+        "top": "12%",
+        "width": "107.5%",
+        "height": "82%"
+    },{
+        "url":"./static/LIF/images/marker2.svg",
+        "top": "-10%",
+        "height": "120%"
+    },{
+        "url":"./static/LIF/images/marker6.svg",
+        "top": "0%",
+        "height": "120%"
+    },{
+        "url":"./static/LIF/images/marker7.svg",
+        "top": "0%",
+        "height": "120%"
+    },{
+        "url":"./static/LIF/images/marker9.svg",
+        "top": "0%",
+        "height": "120%"
+    },{
+        "url":"./static/LIF/images/marker10.svg",
+        "left": "-10%",
+        "width": "125%",
+        "height": "110%"
+    }],
+    "title": "<h1>Understand your</h1>\n<h1 class=\"fwbq-highlight\"><span class=\"fwbq-highlight-text\" data-highlight=\"marker1\">relationship with money</span></h1>",
+    "intro": "<p>Understanding and improving your relationship with money is often the single biggest thing that you can do to improve your financial wellbeing. Once you have begun to identify what your relationship with money is like, you can think about the impact this relationship is having on your finances.</p>",
+    "start": "Take the quiz",
+    "questions": [{
+        "question": "When I check my bank balance, I feel...",
+        "options": [
+            {"option":"Confident - I know what to expect, and [it rarely surprises me]", "scores":[0,100] },
+            {"option":"Curious - I'm sure it's fine, but [there's always a chance] that it's not what I think", "scores":[0,70] },
+            {"option":"Nervous - [I might be in the red]...", "scores":[0,40] },
+            {"option":"Dread - [the news is usually bad]", "scores":[0,10] }
+        ],
+        "tooltip": "<strong>Contact:</strong> Frequent chats and check-ins helps keep you both on the same page and tackle any issues early."
+    }, {
+        "question": "Every month, I save (excluding retirement savings)…",
+        "options": [
+            {"option":"Pretty much [nothing]", "scores":[0,0] },
+            {"option":"About [5% of my salary]", "scores":[20,0] },
+            {"option":"About [10% of my salary]", "scores":[40,0] },
+            {"option":"About [20% of my salary]", "scores":[60,0] },
+            {"option":"More than [25% of my salary]", "scores":[80,0] }
+        ],
+        "tooltip": "<strong>Support:</strong> Balancing the give and take in a relationship helps confidence grow; knowing you've got each other's back."
+    }, {
+        "question": "Thinking about credit cards and loans, the total I owe is…",
+        "options": [
+            {"option":"[More than my annual salary]", "scores":[0,0] },
+            {"option":"Between [6 and 12 months] of my salary", "scores":[15,0] },
+            {"option":"Between [1 and 6 months] of my salary", "scores":[50,0] },
+            {"option":"[Less than one month's] salary/I have no debt", "scores":[100,0] }
+        ],
+        "tooltip": "<strong>Balance:</strong> Sharing control; not letting one take over the other, gives more freedom to be yourself and make choices that are right for both you and your relationship."
+    }, {
+        "question": "If I had to pay for a big, unexpected expense like car repairs or a new boiler…",
+        "options": [
+            {"option":"It wouldn't be an issue - [I've got a rainy day fund] for things like this", "scores":[75,25] },
+            {"option":"It would be ok - [I'd be able to make it work] by cutting back elsewhere", "scores":[50,10] },
+            {"option":"It could be [a bit of a struggle] - I'd really have to sit down and make a plan", "scores":[25,0] },
+            {"option":"I have no idea - it would set me [completely off course]", "scores":[0,0] }
+        ],
+        "tooltip": "<strong>Adaptability:</strong> Life's full of surprises; some good, some less so. Knowing to expect the unexpected and dealing with the difficult times together can make relationships stronger."
+    }, {
+        "question": "Spending money on bigger things like Christmas or holidays makes me feel...",
+        "options": [
+            {"option":"Joy - it's what I work for and I know [I can afford it]", "scores":[25,75] },
+            {"option":"Satisfaction - it might not be plain sailing but [I can make it work]", "scores":[15,50] },
+            {"option":"Caution - I'm [not really sure] if I'm spending too much or if it's ok", "scores":[10,35] },
+            {"option":"Fear - I [can't see a way out] of the debt spiral things like this cause", "scores":[0,0] },
+            {"option":"Dread - the social pressure of these events always makes me [overspend and regret it]", "scores":[0,0] }
+        ],
+        "tooltip": "<strong>Respect:</strong> Recognising and accepting each other's feelings and boundaries makes it easier to feel comfortable and safe sharing in a relationship."
+    }, {
+        "question": "If my salary stopped today, I'd be able to live off my savings for",
+        "options": [
+            {"option":"[Over a year]", "scores":[75,25] },
+            {"option":"[6-12 months]", "scores":[50,10] },
+            {"option":"[Up to 6 months]", "scores":[25,10] },
+            {"option":"[Less than a month]/I have no savings", "scores":[0,0] }
+        ],
+        "tooltip": "<strong>Honesty:</strong> Being open and honest about your expectations strengthens the foundations of a relationship. Just knowing where you stand can help make the next steps more meaningful."
+    }, {
+        "question": "If I had to choose a company to invest in, I'd choose…",
+        "options": [
+            {"option":"Hang on - [what's investing?]", "scores":[0,0] },
+            {"option":"A bank - [tried, trusted and regulated]", "scores":[30,20] },
+            {"option":"An [electric car company] - they're bound to do well", "scores":[50,30] },
+            {"option":"A small, high tech startup - [go big or go home]", "scores":[20,50] },
+            {"option":"I [can't afford to invest], so it's not worth thinking about", "scores":[0,0] }
+        ],
+        "tooltip": "<strong>Responsibility:</strong> Own your choices, understand and accept the impact they have, and learn from them."
+    }, {
+        "question": "When I think about my financial progression, I'm...",
+        "options": [
+            {"option":"Proud - [I am where I want to be]", "scores":[50,50] },
+            {"option":"Satisfied - [give me a couple more years] and I'll be where I want to be", "scores":[45,40] },
+            {"option":"Fine - I've hit some of my financial goals, but [there's still work to be done]", "scores":[30,30] },
+            {"option":"A bit uneasy - it's been up and down, but I think I'm [starting to make progress]", "scores":[20,15] },
+            {"option":"Despondent - My financial dreams seem [further and further off] every month", "scores":[0,5] },
+            {"option":"[Confused] - what progression should I have made?", "scores":[0,0] }
+        ],
+        "tooltip": "<strong>Commitment:</strong> Time and energy spent building and understanding your relationship is rarely wasted."
+    }, {
+        "question": "When I make a big purchase, like a car or renovations on our house...",
+        "options": [
+            {"option":"I stop and do some financial [analysis, like comparison sites], or gathering many competitive quotes. This [can take months], but it's worth it to get the right thing at the best price.", "scores":[50,30] },
+            {"option":"I do some [sweeping comparisons], just to check what I should be paying, and then let the other criteria guide me - [money isn't everything.]", "scores":[30,50] },
+            {"option":"I remind myself that [you get what you pay for] - if it's big, it must be top quality, and so I should expect it to be expensive. [Sometimes I overpay] for things.", "scores":[30,30] },
+            {"option":"I never make these kinds of purchases, as I simply [can't afford it]", "scores":[0,0] }
+        ],
+        "tooltip": "<strong>Trust:</strong> Knowing you've got the best interests of your relationship in mind when you make decisions that affect you both.",
+        "multiple": false
+    }],
+    "previous": "Previous question",
+    "tooltip": "Relationship advice?",
+    "tooltipHighlightColor": "#ccafe0",
+    "results": [{
+        "title": "Show me the love.",
+        "subtitle": "We need to talk.",
+        "scores": [0,0],
+        "link": "https://xd.adobe.com/view/cec1dc3b-f42d-4c69-a71b-c2e1c4f0b9c2-9b92/screen/424bcd6b-4222-42f6-b2b4-81cab67855ae?fullscreen"
+    },{
+        "title": "Star-crossed lovers.",
+        "subtitle": "We could be great together.",
+        "scores": [60,0],
+        "link": "https://xd.adobe.com/view/cec1dc3b-f42d-4c69-a71b-c2e1c4f0b9c2-9b92/screen/3e926f89-42e8-403f-ba4f-5d2a8c559ece?fullscreen"
+    },{
+        "title": "It's complicated.",
+        "subtitle": "We're not quite on the same page.",
+        "scores": [0,60],
+        "link": "https://xd.adobe.com/view/cec1dc3b-f42d-4c69-a71b-c2e1c4f0b9c2-9b92/screen/7e5c350c-c305-4a65-8e83-14f486385128?fullscreen"
+    },{
+        "title": "Soulmates.",
+        "subtitle": "You complete me.",
+        "scores": [60,60],
+        "link": "https://xd.adobe.com/view/cec1dc3b-f42d-4c69-a71b-c2e1c4f0b9c2-9b92/screen/aa3f4483-489e-451e-a59f-f357cd5b339d?fullscreen"
+    }]
+}
